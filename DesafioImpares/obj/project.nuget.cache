@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qR/fE16b+BI0Kh781v2apTE5gv87KSww/WI5SXDUz6VaLCyDM+JadVSsu+g8Do3EYUpldMARZ4RcrCxQcicWwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luizp\\OneDrive\\Documentos\\Repositório\\DesafioImpares\\desafioimpar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luizp\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\luizp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\luizp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\luizp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

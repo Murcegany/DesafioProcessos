@@ -1,0 +1,13 @@
+C:\Users\luizp\OneDrive\Documentos\Repositório\DesafioImpares\bin\Debug\netcoreapp3.1\desafioimpar.exe
+C:\Users\luizp\OneDrive\Documentos\Repositório\DesafioImpares\bin\Debug\netcoreapp3.1\desafioimpar.deps.json
+C:\Users\luizp\OneDrive\Documentos\Repositório\DesafioImpares\bin\Debug\netcoreapp3.1\desafioimpar.runtimeconfig.json
+C:\Users\luizp\OneDrive\Documentos\Repositório\DesafioImpares\bin\Debug\netcoreapp3.1\desafioimpar.runtimeconfig.dev.json
+C:\Users\luizp\OneDrive\Documentos\Repositório\DesafioImpares\bin\Debug\netcoreapp3.1\desafioimpar.dll
+C:\Users\luizp\OneDrive\Documentos\Repositório\DesafioImpares\bin\Debug\netcoreapp3.1\desafioimpar.pdb
+C:\Users\luizp\OneDrive\Documentos\Repositório\DesafioImpares\obj\Debug\netcoreapp3.1\desafioimpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizp\OneDrive\Documentos\Repositório\DesafioImpares\obj\Debug\netcoreapp3.1\desafioimpar.AssemblyInfoInputs.cache
+C:\Users\luizp\OneDrive\Documentos\Repositório\DesafioImpares\obj\Debug\netcoreapp3.1\desafioimpar.AssemblyInfo.cs
+C:\Users\luizp\OneDrive\Documentos\Repositório\DesafioImpares\obj\Debug\netcoreapp3.1\desafioimpar.csproj.CoreCompileInputs.cache
+C:\Users\luizp\OneDrive\Documentos\Repositório\DesafioImpares\obj\Debug\netcoreapp3.1\desafioimpar.dll
+C:\Users\luizp\OneDrive\Documentos\Repositório\DesafioImpares\obj\Debug\netcoreapp3.1\desafioimpar.pdb
+C:\Users\luizp\OneDrive\Documentos\Repositório\DesafioImpares\obj\Debug\netcoreapp3.1\desafioimpar.genruntimeconfig.cache
